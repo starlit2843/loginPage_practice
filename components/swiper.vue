@@ -7,7 +7,7 @@
       :modules="[Autoplay, Navigation, Pagination, EffectFade]"
       :pagination="{ clickable: true, hideOnClick: true }"
       :slides-per-view="1"
-      :autoplay="{ delay: 3000, disableOnInteraction: false }"
+      :autoplay="{ delay: 2500, disableOnInteraction: false }"
       effect="fade"
     >
       <swiper-slide>
