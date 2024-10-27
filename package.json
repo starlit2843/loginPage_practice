@@ -12,6 +12,7 @@
   "dependencies": {
     "nuxt": "^3.13.2",
     "swiper": "^11.1.14",
+    "v-onboarding": "^2.8.2",
     "vue": "latest",
     "vue-router": "latest",
     "vuedraggable": "^4.1.0"
